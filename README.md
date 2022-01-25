@@ -1,1 +1,1 @@
-# Higher_Lower_Game
+It's a game based on instagram followers. Here you will find a file having details about a different celebrity. All you have to do is guess the celebrity with more number of instagram followers. If we lose, the game ends. 
